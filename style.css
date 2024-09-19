@@ -16,7 +16,8 @@ p {
 } 
 
 element.style {
-    border: solid;
+
+    border: lightslategrey;
 
 }
 
